@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+
+background-color: #4A96AD;
+}
+h2{
+	color:white;
+}
+button{
+	border-radius: 8px;
+}
+.container {
+
+	display: flex;
+    justify-content: space-between;
+}
+
+.imageList{
+	margin:2px;
+}
+
+img{
+	object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+.table-striped{
+    overflow: auto;
+}
+.loaddata
+{
+    width:2%;
+    height:2%;
+}
+.applelogo{
+    width:5%;
+    height:3%;
+}
+.container{
+    width:1000px;
+    height:800px;
+}

@@ -1,0 +1,28 @@
+body{
+
+background-color: #4A96AD;
+}
+h1{
+	color:white;
+}
+table th{
+	color: white;
+}
+button{
+	border-radius: 8px;
+}
+.container {
+
+	display: flex;
+    justify-content: space-between;
+}
+
+.imageList{
+	margin:2px;
+}
+
+img{
+	object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
